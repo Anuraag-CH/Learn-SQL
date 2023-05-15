@@ -5,7 +5,7 @@
 */
 
 DELETE FROM albums
-WHERE id = 19;
+WHERE id = 25;
 
 /* This is the query used to get the band id of the band added in #8 */
 /*
@@ -14,4 +14,4 @@ WHERE id = 19;
 */
 
 DELETE FROM bands
-WHERE id = 8;
+WHERE id = 10;

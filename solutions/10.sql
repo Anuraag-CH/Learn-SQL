@@ -1,2 +1,2 @@
-SELECT AVG(length) as 'Average Song Duration'
+SELECT AVG(length) AS 'Average Song Duration'
 FROM songs;

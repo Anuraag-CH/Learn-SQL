@@ -8,4 +8,4 @@ VALUES ('Favorite Band Name');
 */
 
 INSERT INTO albums (name, release_year, band_id)
-VALUES ('Favorite Album Name', 2000, 8);
+VALUES ('Favorite Album Name', 2008, 10);
